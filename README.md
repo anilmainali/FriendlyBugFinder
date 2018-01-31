@@ -1,6 +1,8 @@
 # FriendlyBugFinder
 Company: http://www.softwaretestingmentor.com/
 
+Date: Jan 31st 2018
+
 Issue: Functional: link navigates to Page not found
 
 Steps:
